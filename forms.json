@@ -5,6 +5,11 @@
     "src": "./assets/field-demo/form.html"
   },
   {
+    "id": "my-form",
+    "title": "My Form",
+    "src": "./assets/my-form/form.html"
+  },
+  {
     "id": "item-demo",
     "title": "Item Demo",
     "src": "./assets/item-demo/form.html"
